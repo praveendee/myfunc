@@ -1,0 +1,13 @@
+name: myfunc1
+namespace: ""
+runtime: python
+image: ""
+imageDigest: ""
+builder: quay.io/boson/faas-python-builder:v0.8.4
+builderMap:
+  default: quay.io/boson/faas-python-builder:v0.8.4
+volumes: []
+envs: []
+annotations: {}
+options: {}
+labels: []
