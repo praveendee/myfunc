@@ -1,4 +1,4 @@
-name: myfunc1
+name: myfunc
 namespace: ""
 runtime: python
 image: ""
